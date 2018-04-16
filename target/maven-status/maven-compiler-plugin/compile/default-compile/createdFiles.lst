@@ -1,0 +1,10 @@
+com/main/kafka/serializer/AvroDeserializer.class
+com/main/kafka/consumer/ReceiverConfig.class
+com/main/kafka/consumer/Receiver.class
+example/avro/User$1.class
+example/avro/User.class
+com/main/kafka/producer/SenderConfig.class
+com/main/kafka/App.class
+com/main/kafka/serializer/AvroSerializer.class
+example/avro/User$Builder.class
+com/main/kafka/producer/Sender.class

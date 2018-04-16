@@ -1,0 +1,8 @@
+/home/ozinal/Documents/workspace-sts-3.9.0.RELEASE/Kafka/src/main/java/com/main/kafka/consumer/ReceiverConfig.java
+/home/ozinal/Documents/workspace-sts-3.9.0.RELEASE/Kafka/src/main/java/com/main/kafka/consumer/Receiver.java
+/home/ozinal/Documents/workspace-sts-3.9.0.RELEASE/Kafka/src/main/java/com/main/kafka/producer/Sender.java
+/home/ozinal/Documents/workspace-sts-3.9.0.RELEASE/Kafka/src/main/java/com/main/kafka/serializer/AvroDeserializer.java
+/home/ozinal/Documents/workspace-sts-3.9.0.RELEASE/Kafka/src/main/java/com/main/kafka/App.java
+/home/ozinal/Documents/workspace-sts-3.9.0.RELEASE/Kafka/src/main/java/com/main/kafka/serializer/AvroSerializer.java
+/home/ozinal/Documents/workspace-sts-3.9.0.RELEASE/Kafka/src/main/java/com/main/kafka/producer/SenderConfig.java
+/home/ozinal/Documents/workspace-sts-3.9.0.RELEASE/Kafka/src/main/java/example/avro/User.java

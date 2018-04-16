@@ -1,0 +1,11 @@
+kafka:
+  bootstrap-servers: localhost:32771
+
+topic:
+  avro: avro.t
+
+spring:
+  kafka:
+    consumer:
+      auto-offset-reset: earliest
+      group-id: boot
